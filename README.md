@@ -1,22 +1,15 @@
 
 ## 🚀 About Me
-I am a young man with very set goals, so I decided to take fate into my own hands to get them. I completed a six-month testing course, where I gained theoretical and practical knowledge. During the course, I learned the basics of testing theory and testing techniques. The practical part included test management, bug reporting and reporting, writing test cases and automation scripts in Cypress.
-
-My next step in the near future is to acquire knowledge and skills in SQL and API, implementation of my own projects in the field of functional or performance tests, implementation of projects on the UTest platform.
-There are many goals and even more ambitions. I look forward to a new opportunity to grow and build a career path in IT.
-
-
-## 🛠 My projects
-[Automated Software Testing Arena](https://github.com/DominikCLK/asta.git)
-
-
+I started gaining my experience from 2020 by taking a course in software testing. Then I expanded my knowledge with automation tests, I learned frameworks such as Cypress, Playwright or WebdriverIO.
+I have been working at WhooHoo Poland as a Software Tester since 2022. At work, I use tools such as VS Code, Azure DevOps, WebdriverIO, Playwright and Postman. Working as a tester gives me joy and satisfaction, so I would like to constantly develop and have high-level skills.
+After work, I spend my time exercising at the gym or learning from various online courses
 
 
 ## More about me
-👩‍💻 I'm currently working on [Automated Software Testing Arena](https://github.com/DominikCLK/asta.git)
+👩‍💻 I am currently working at WhooHoo Poland as Software Tester
 
 
-🧠 I'm currently learning API/Postman
+🧠 I'm currently learning Cypress and Playwright frameworks
 
 
 📫 How to reach me[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-calak/)
