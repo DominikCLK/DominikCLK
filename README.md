@@ -9,7 +9,10 @@ I have been working at Maandag Poland as a Software Tester since March 2022. At 
 
 🧠 I'm currently learning and working in Playwright frameworks
 
-🧠 I am developing an automated testing project in which I use the Playwright + TypeScript framework. Check out repo! [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DominikCLK/Automation-tests-project-Playwright)
+🧠 I am developing an automated testing project in which I use the Playwright + TypeScript framework. 
+Check out repo! 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DominikCLK/Automation-tests-project-Playwright)
 
 
-📫 How to reach me[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-calak/)
+📫 How to reach me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-calak/)
