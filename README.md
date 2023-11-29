@@ -7,7 +7,7 @@ I have been working at Maandag Poland as a Software Tester since March 2022. At 
 
 ## More about me
 
-🧠 I'm currently learning and working in Playwright frameworks
+🧠 I'm currently learning and working in Playwright framework
 
 🧠 I am developing an automated testing project in which I use the Playwright + TypeScript framework. 
 Check out repo! 
