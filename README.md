@@ -31,5 +31,5 @@ Check out repo!
 - **Demo Bank App** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DominikCLK/Demo-Bank-Project)
 
 ## Let's Collaborate!
-- [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)](https://www.linkedin.com/in/dominik-calak/)
+- [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dominik-calak/)]
 - dominik.calak@gmail.com
