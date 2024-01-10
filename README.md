@@ -9,6 +9,7 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 - 🧪 Experimenting with Playwright testing frameworks and tools.
 - 🌟 Creating automated testing solutions that sparkle.
 - 🚀 Turning caffeine into code that works while you sleep.
+- 🛠️ I have been working commercially since 2022
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikclk&show_icons=true&locale=en" alt="dominikclk" /></p>
 
@@ -19,9 +20,10 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 - 📊 Continuous Integration/Deployment (GitHub Actions, Azure Pipelines)
 - 🐛 Bug Hunting and Tracking
 - 🌐 Ability to test and validate APIs using tools like Postman
-- 💻 Understanding of test design techniques to create effective and comprehensive test cases.
+- 💻 Understanding of test design techniques to create effective and comprehensive test cases
 - 📊 Performance tests using JMeter
 - 🤖 Mobile app testing
+- 🧪 I contribute to the agile environment by collaborating with cross-functional teams (scrum)
 - 🌟 English B1/B2
 
 ## Technologies
