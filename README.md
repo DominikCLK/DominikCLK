@@ -21,7 +21,7 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 - 📊 Performance tests using JMeter
 
 - ## Technologies
-[![My Skill](https://skillicons.dev/icons?i=ts,vscode,postman,html,css,github,git,azure,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skill](https://skillicons.dev/icons?i=ts,vscode,postman,html,css,github,git,azure,nodejs,figma&theme=light)](https://skillicons.dev) ![playwright](https://ms-playwright.gallerycdn.vsassets.io/extensions/ms-playwright/playwright/1.0.20/1702703385277/Microsoft.VisualStudio.Services.Icons.Default)
 
 ## Current projects
 
@@ -31,5 +31,5 @@ Check out repo!
 - **Demo Bank App** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DominikCLK/Demo-Bank-Project)
 
 ## Let's Collaborate!
-- [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dominik-calak/)]
+- [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dominik-calak/)
 - dominik.calak@gmail.com
