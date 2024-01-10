@@ -1,5 +1,5 @@
 ## 🚀 About Me
-![action](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/873ebb84-b6b7-4bf5-b863-452ab0b5122e)
+![action (1)](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/e0abf823-8ce8-4616-a67d-36b1ea138499)
 
 Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves making scripts to verify your app!
 
