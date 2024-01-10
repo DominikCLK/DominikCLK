@@ -13,6 +13,11 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikclk&show_icons=true&locale=en" alt="dominikclk" /></p>
 
+<!-- Use spaces or &nbsp; to try centering the image -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dominikclk&show_icons=true&locale=en" alt="dominikclk" />
+</p>
+
 ## My Skills
 
 - 🤖 Automation Testing
