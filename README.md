@@ -33,4 +33,4 @@ Check out repo!
 
 ## Let's Collaborate!
 - [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dominik-calak/)
-  [![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev) dominik.calak@gmail.com
+- [![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev) dominik.calak@gmail.com
