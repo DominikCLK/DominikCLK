@@ -13,7 +13,7 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 
 <!-- Use spaces or &nbsp; to try centering the image -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dominikclk&show_icons=true&locale=en" alt="dominikclk" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hubiboar&show_icons=true&locale=en" alt="hubiboar" />
 </p>
 
 ## My Skills
