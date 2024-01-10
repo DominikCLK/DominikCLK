@@ -27,6 +27,8 @@ Check out repo!
 - **GAD App** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DominikCLK/Automation-tests-project-Playwright)
 - **Demo Bank App** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DominikCLK/Demo-Bank-Project)
 
+- <img height="32" width="32" src="https://cdn.simpleicons.org/[playwright]/[COLOR]" />
+
 
 ## Let's Collaborate!
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-calak/)
