@@ -21,7 +21,7 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 - 📊 Performance tests using JMeter
 
 - ## Technologies
-[![My Skill](https://skillicons.dev/icons?i=java,playwright,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skill](https://skillicons.dev/icons?i=ts,vscode,postman,html,css,github,git,azure,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ## Current projects
 
