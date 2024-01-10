@@ -30,12 +30,7 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 - 🌟 English B1/B2
 
 ## Technologies
-<!-- Use spaces or &nbsp; to try centering the image -->
-<p align="center">
-  [![My Skill](https://skillicons.dev/icons?i=ts,vscode,postman,html,css,github,git,azure,nodejs,figma&theme=light)](https://skillicons.dev)
-</p>
-
-
+[![My Skill](https://skillicons.dev/icons?i=ts,vscode,postman,html,css,github,git,azure,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ## Current projects
 
