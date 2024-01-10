@@ -20,6 +20,8 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 - 💻 Understanding of test design techniques to create effective and comprehensive test cases.
 - 📊 Performance tests using JMeter
 
+- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 ## Current projects
 
 I am developing an automated testing project in which I use the Playwright + TypeScript framework. Ultimately, the projects will include test plans, test scenarios and a CD\CI pipeline
