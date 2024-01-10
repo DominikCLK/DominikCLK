@@ -39,6 +39,4 @@ Check out repo!
 - [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dominik-calak/)
 - dominik.calak@gmail.com
 
-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominikclk&" alt="dominikclk" /></p>
-
 
