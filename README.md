@@ -2,19 +2,34 @@
 ## 🚀 About Me
 ![hi! I am Dominik Calak](https://github.com/DominikCLK/cypress-project/assets/75272795/ae9eddd4-9083-4a09-98ea-e1a0b9c3c87b)
 
-I started gaining my experience from 2020 by taking a course in software testing. Then I expanded my knowledge with automation tests, I learned frameworks such as Cypress, Playwright.
-
-I have been working at Maandag Poland as a Software Tester since March 2022. At work, I use tools such as VS Code, Azure DevOps, Playwright and Postman. Working as a tester gives me joy and satisfaction, so I would like to constantly develop and have high-level skills.
+Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves making scripts to verify your app!
 
 
 ## More about me
 
-🧠 I'm currently working in Playwright framework
+🔍 Always seeking bugs to squash and systems to optimize.
+🧪 Experimenting with Playwright testing frameworks and tools.
+🌟 Creating automated testing solutions that sparkle.
+🚀 Turning caffeine into code that works while you sleep.
 
-🧠 I am developing an automated testing project in which I use the Playwright + TypeScript framework. 
+## My Skills
+
+🤖 Automation Testing
+🛠️ Test Frameworks (Playwright + TypeScript)
+📊 Continuous Integration/Deployment (GitHub Actions, Azure Pipelines)
+🐛 Bug Hunting and Tracking
+🌐 Ability to test and validate APIs using tools like Postman
+💻 Understanding of test design techniques to create effective and comprehensive test cases.
+📊 Performance tests using JMeter
+
+## Current projects
+
+🧠 I am developing an automated testing project in which I use the Playwright + TypeScript framework. Ultimately, the projects will include test plans, test scenarios and a CD\CI pipeline
 Check out repo! 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DominikCLK/Automation-tests-project-Playwright)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DominikCLK/Automation-tests-project-Playwright)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DominikCLK/Demo-Bank-Project)
 
 
-📫 How to reach me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-calak/)
+## Let's Connect!
+-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-calak/)
+-dominik.calak@gmail.com
