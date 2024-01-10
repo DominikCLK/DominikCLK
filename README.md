@@ -19,8 +19,9 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 - 🌐 Ability to test and validate APIs using tools like Postman
 - 💻 Understanding of test design techniques to create effective and comprehensive test cases.
 - 📊 Performance tests using JMeter
+- 🤖 Mobile app testing
 
-- ## Technologies
+## Technologies
 [![My Skill](https://skillicons.dev/icons?i=ts,vscode,postman,html,css,github,git,azure,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
@@ -34,3 +35,5 @@ Check out repo!
 ## Let's Collaborate!
 - [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dominik-calak/)
 - dominik.calak@gmail.com
+
+- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikclk&show_icons=true&locale=en" alt="dominikclk" /></p>
