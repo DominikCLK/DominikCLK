@@ -10,6 +10,8 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 - 🌟 Creating automated testing solutions that sparkle.
 - 🚀 Turning caffeine into code that works while you sleep.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikclk&show_icons=true&locale=en" alt="dominikclk" /></p>
+
 ## My Skills
 
 - 🤖 Automation Testing
@@ -20,6 +22,7 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 - 💻 Understanding of test design techniques to create effective and comprehensive test cases.
 - 📊 Performance tests using JMeter
 - 🤖 Mobile app testing
+- 🌟 English B1/B2
 
 ## Technologies
 [![My Skill](https://skillicons.dev/icons?i=ts,vscode,postman,html,css,github,git,azure,nodejs,figma&theme=light)](https://skillicons.dev)
@@ -36,4 +39,6 @@ Check out repo!
 - [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dominik-calak/)
 - dominik.calak@gmail.com
 
-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikclk&show_icons=true&locale=en" alt="dominikclk" /></p>
+- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominikclk&" alt="dominikclk" /></p>
+
+
