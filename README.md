@@ -1,5 +1,5 @@
 ## 🚀 About Me
-![hi! I am Dominik Calak](https://github.com/DominikCLK/cypress-project/assets/75272795/ae9eddd4-9083-4a09-98ea-e1a0b9c3c87b)
+![action](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/873ebb84-b6b7-4bf5-b863-452ab0b5122e)
 
 Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves making scripts to verify your app!
 
