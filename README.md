@@ -30,5 +30,3 @@ Check out repo!
 ## Let's Collaborate!
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-calak/)
 - dominik.calak@gmail.com
-
-- ![hi! I am Dominik Calak (1)](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/5f7caf63-d877-44dd-bad3-1fcfdcfb0fcb)
