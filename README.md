@@ -16,6 +16,8 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
   <img src="https://github-readme-stats.vercel.app/api?username=dominikclk&show_icons=true&locale=en" alt="dominikclk" />
 </p>
 
+![2024-01-11_16h13_40](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/74c7ac1c-9a47-4a76-93ce-e067a50aca0a)
+
 ## My Skills
 
 - 🤖 Automation Testing
