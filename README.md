@@ -22,6 +22,8 @@
 - 🛠️ I have been working commercially since 2021
 - 📝 [Check out my CV!](https://github.com/DominikCLK/Demo-Bank-Project/files/13909176/Dominik.CalakCV.pdf)
 - ![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.svg)
+  
+![2024-01-11_16h13_40](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/74c7ac1c-9a47-4a76-93ce-e067a50aca0a)
 
 ## 📊 GitHub Stats
 <!-- Use spaces or &nbsp; to try centering the image -->
