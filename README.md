@@ -21,8 +21,9 @@
 - 🚀 Turning caffeine into code that works while you sleep.
 - 🛠️ I have been working commercially since 2021
 - 📝 [Check out my CV!](https://github.com/DominikCLK/Demo-Bank-Project/files/13909176/Dominik.CalakCV.pdf)
-![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.svg)
+- ![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.svg)
 
+## 📊 GitHub Stats
 <!-- Use spaces or &nbsp; to try centering the image -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dominikclk&show_icons=true&locale=en" alt="dominikclk" />
@@ -51,7 +52,7 @@
   </a>
 </p>
 
-## Current projects
+## 📂 Current projects
 
 I am developing an automated testing project in which I use the Playwright + TypeScript framework. Ultimately, the projects will include test plans, test scenarios and a CD\CI pipeline
 Check out repo! 
@@ -59,7 +60,7 @@ Check out repo!
 - [**Demo Bank App**](https://github.com/DominikCLK/Demo-Bank-Project)
 - [**Test Scenario for Demo Bank App**](https://docs.google.com/spreadsheets/d/1RqqELBk0kdBnF3xazXMpz79Zdp9VXOKEjNhC_aKY__8/edit?usp=sharing)
 
-## Let's Collaborate!
+## 📫 Let's Collaborate!
 [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dominik-calak/) [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:dominik.calak@gmail.com)
 
 
