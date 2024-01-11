@@ -33,6 +33,13 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 - 🌟 English B1/B2
 
 ## Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=ts,vscode,postman,html,css,github,git,azure,nodejs,figma&theme=light)" />
+  </a>
+</p>
+
 [![My Skill](https://skillicons.dev/icons?i=ts,vscode,postman,html,css,github,git,azure,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ## Current projects
