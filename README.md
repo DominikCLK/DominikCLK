@@ -4,11 +4,6 @@
 <div align="center">
 
 # Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves making scripts to verify your app!
-<div align="center">
-
-### a passionate automation test engineer who loves making scripts to verify your app!
-
-</div>
 
 </div>
 
