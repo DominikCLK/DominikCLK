@@ -43,6 +43,6 @@ Check out repo!
 
 ## Let's Collaborate!
 - [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dominik-calak/)
-- [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](dominik.calak@gmail.com)
+- [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:dominik.calak@gmail.com)
 
 
