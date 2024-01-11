@@ -7,6 +7,12 @@
 
 </div>
 
+<div align="center">
+
+a passionate automation test engineer who loves making scripts to verify your app!
+
+</div>
+
 ## More about me
 
 - 🔍 Always seeking bugs to squash and systems to optimize.
