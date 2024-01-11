@@ -1,7 +1,11 @@
 ## 🚀 About Me
 ![action (1)](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/e0abf823-8ce8-4616-a67d-36b1ea138499)
 
-Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves making scripts to verify your app!
+<div align="center">
+
+# Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves making scripts to verify your app!
+
+</div>
 
 ## More about me
 
@@ -11,7 +15,7 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 - 🚀 Turning caffeine into code that works while you sleep.
 - 🛠️ I have been working commercially since 2021
 - 🗎  [Check out my CV!](https://github.com/DominikCLK/Demo-Bank-Project/files/13909176/Dominik.CalakCV.pdf)
-- ![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.svg)
 
 <!-- Use spaces or &nbsp; to try centering the image -->
 <p align="center">
