@@ -1,9 +1,15 @@
+<div align="right">
+
+You are ![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.svg)
+
+</div>
+
 ## 📝 About Me
 ![action (1)](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/e0abf823-8ce8-4616-a67d-36b1ea138499)
 
 <div align="center">
 
-# Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves making scripts to verify your app!
+# Hey there! 👋 I'm Dominik
 
 </div>
 
@@ -21,7 +27,6 @@
 - 🚀 Turning caffeine into code that works while you sleep.
 - 🛠️ I have been working commercially since 2021
 - 📝 [Check out my CV!](https://github.com/DominikCLK/Demo-Bank-Project/files/13909176/Dominik.CalakCV.pdf)
-- ![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.svg)
   
 ![2024-01-11_16h13_40](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/74c7ac1c-9a47-4a76-93ce-e067a50aca0a)
 
@@ -30,8 +35,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dominikclk&show_icons=true&locale=en" alt="dominikclk" />
 </p>
-
-![2024-01-11_16h13_40](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/74c7ac1c-9a47-4a76-93ce-e067a50aca0a)
 
 ## My Skills
 
