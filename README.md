@@ -36,7 +36,7 @@ Hey there! 👋 I'm Dominik, a passionate automation test engineer who loves mak
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=ts,vscode,postman,html,css,github,git,azure,nodejs,figma" />
   </a>
 </p>
 
