@@ -1,9 +1,3 @@
-<div align="right">
-
-You are ![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.svg)
-
-</div>
-
 ## 📝 About Me
 ![Projekt bez nazwy (7)](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/9563588c-8860-432a-a663-2039fb7ff604)
 
