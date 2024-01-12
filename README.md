@@ -5,7 +5,7 @@ You are ![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.sv
 </div>
 
 ## 📝 About Me
-![Projekt bez nazwy (3) (1)](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/df96d989-6ebc-4b3a-9724-ef00211c6619)
+![Projekt bez nazwy (4)](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/9f372df8-7b45-4b5c-b29d-4aa0e58c827c)
 
 <div align="center">
 
@@ -28,7 +28,7 @@ You are ![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.sv
 - 🛠️ I have been working commercially since 2021
 - 📝 [Check out my CV!](https://github.com/DominikCLK/Demo-Bank-Project/files/13909176/Dominik.CalakCV.pdf)
   
-![2024-01-11_16h13_40](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/74c7ac1c-9a47-4a76-93ce-e067a50aca0a)
+![Projekt bez nazwy (6)](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/c8be0340-ed6d-488c-bd74-b39bce2034ed)
 
 ## 📊 GitHub Stats
 <!-- Use spaces or &nbsp; to try centering the image -->
