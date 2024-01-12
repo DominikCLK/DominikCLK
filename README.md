@@ -19,7 +19,7 @@ You are ![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.sv
 
 </div>
 
-## More about me
+## 😎 More about me
 
 - 🔍 Always seeking bugs to squash and systems to optimize.
 - 🧪 Experimenting with Playwright testing frameworks and tools.
@@ -36,7 +36,7 @@ You are ![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.sv
   <img src="https://github-readme-stats.vercel.app/api?username=dominikclk&show_icons=true&locale=en" alt="dominikclk" />
 </p>
 
-## My Skills
+## 🦾 My Skills
 
 - 🤖 Automation Testing
 - 🛠️ Test Frameworks (Playwright + TypeScript)
@@ -49,7 +49,7 @@ You are ![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.sv
 - 🧪 I contribute to the agile environment by collaborating with cross-functional teams (scrum)
 - 🌟 English B1/B2
 
-## Technologies
+## 🔧 Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
