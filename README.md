@@ -5,7 +5,7 @@ You are ![Visitor Count](https://profile-counter.glitch.me/{DominikCLK}/count.sv
 </div>
 
 ## 📝 About Me
-![Projekt bez nazwy (4)](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/9f372df8-7b45-4b5c-b29d-4aa0e58c827c)
+![Projekt bez nazwy (7)](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/9563588c-8860-432a-a663-2039fb7ff604)
 
 <div align="center">
 
