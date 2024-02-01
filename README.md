@@ -58,6 +58,7 @@ Check out repo!
 - [**GAD App**](https://github.com/DominikCLK/Automation-tests-project-Playwright)
 - [**Demo Bank App**](https://github.com/DominikCLK/Demo-Bank-Project)
 - [**Test Scenario for Demo Bank App**](https://docs.google.com/spreadsheets/d/1RqqELBk0kdBnF3xazXMpz79Zdp9VXOKEjNhC_aKY__8/edit?usp=sharing)
+- [**How configurate Quality Gates**](https://github.com/DominikCLK/Automation-tests-project-Playwright/files/14128593/Settings.Quality.Gates.pdf)
 
 ## 📫 Let's Collaborate!
 [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dominik-calak/) [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:dominik.calak@gmail.com)
