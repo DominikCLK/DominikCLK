@@ -20,9 +20,8 @@
 - 🌟 Creating automated testing solutions that sparkle.
 - 🚀 Turning caffeine into code that works while you sleep.
 - 🛠️ I have been working commercially since 2021
-- 📝 [Check out my CV!](https://github.com/DominikCLK/Demo-Bank-Project/files/13917433/Dominik.Calak.1.pdf)
+- 📝 [Check out my CV!](https://github.com/DominikCLK/Wiki-for-Project-configuration-for-the-Quality-Gates-static-code-analysis/files/14314627/Dominik.Calak.CV.Test.engineer.pdf) <-Download CV
   
-![Projekt bez nazwy (6)](https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/c8be0340-ed6d-488c-bd74-b39bce2034ed)
 
 ## 📊 GitHub Stats
 <!-- Use spaces or &nbsp; to try centering the image -->
@@ -46,8 +45,13 @@
 ## 🔧 Technologies
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,vscode,postman,html,css,github,git,azure,nodejs,figma" />
+  <a href="#">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,node.js,eslint,playwright,typescript,postman,html5,css3,githubactions,git,github,azuredevops,azurepipelines,apachejmeter,figma" />
+  </a>
+</p>
+<p align="center">
+  <a href="#">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=windows11,macos,googlechrome,prettier" />
   </a>
 </p>
 
@@ -58,10 +62,10 @@ Check out repo!
 - [**GAD App**](https://github.com/DominikCLK/Automation-tests-project-Playwright)
 - [**Demo Bank App**](https://github.com/DominikCLK/Demo-Bank-Project)
 - [**Test Scenario for Demo Bank App**](https://docs.google.com/spreadsheets/d/1RqqELBk0kdBnF3xazXMpz79Zdp9VXOKEjNhC_aKY__8/edit?usp=sharing)
-- [**How configurate Quality Gates**](https://github.com/DominikCLK/Automation-tests-project-Playwright/files/14128593/Settings.Quality.Gates.pdf)
+- [**How configurate Quality Gates**](https://github.com/DominikCLK/Wiki-for-Project-configuration-for-the-Quality-Gates-static-code-analysis)
 - [**Example of manual API tests in Postman with collection and test report with found bugs**](https://github.com/DominikCLK/Restful-Booker-API-Tests)
 
 ## 📫 Let's Collaborate!
-[![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dominik-calak/) [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:dominik.calak@gmail.com)
+[![linkedin](https://simpleskill.icons.workers.dev/svg?i=linkedin)](https://www.linkedin.com/in/dominik-calak/) [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:dominik.calak@gmail.com)
 
 
