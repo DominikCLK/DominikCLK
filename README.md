@@ -20,7 +20,7 @@
 - 🌟 Creating automated testing solutions that sparkle.
 - 🚀 Turning caffeine into code that works while you sleep.
 - 🛠️ I have been working commercially since 2021
-- 📝 [Check out my CV!](https://github.com/DominikCLK/Wiki-for-Project-configuration-for-the-Quality-Gates-static-code-analysis/files/14314627/Dominik.Calak.CV.Test.engineer.pdf) <-Download CV
+- 📝 [Check out my CV!](https://github.com/DominikCLK/Wiki-for-Project-configuration-for-the-Quality-Gates-static-code-analysis/files/14314627/Dominik.Calak.CV.Test.engineer.pdf) ⬅️ Download CV
   
 
 ## 📊 GitHub Stats
