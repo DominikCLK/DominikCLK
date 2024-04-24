@@ -61,7 +61,7 @@ I am developing an automated testing project in which I use the Playwright + Typ
 Check out repo! 
 - [**GAD App**](https://github.com/DominikCLK/Automation-tests-project-Playwright)
 - [**Demo Bank App tests**](https://github.com/DominikCLK/Demo-Bank-Project)
-- [**E-Commerce App tests**](https://github.com/DominikCLK/Demo-Bank-Project)
+- [**E-Commerce App tests**](https://github.com/DominikCLK/eCommerce-tests)
 - [**Test Scenario for Demo Bank App**](https://github.com/DominikCLK/test-cases-for-Demo-Bank-App)
 - [**How configurate Quality Gates**](https://github.com/DominikCLK/Wiki-for-Project-configuration-for-the-Quality-Gates-static-code-analysis)
 - [**Example of manual API tests in Postman with collection and test report with found bugs**](https://github.com/DominikCLK/Restful-Booker-API-Tests)
