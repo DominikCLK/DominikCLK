@@ -42,6 +42,9 @@
 - 🧪 I contribute to the agile environment by collaborating with cross-functional teams (scrum)
 - 🌟 English B1/B2
 
+## 📝 Certificates
+![pw2-20240424-DominikC](https://github.com/DominikCLK/Automation-tests-project-Playwright/assets/75272795/6719c3a5-9b30-4e3e-bad7-0d7803e96704)
+
 ## 🔧 Technologies
 
 <p align="center">
