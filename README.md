@@ -43,6 +43,11 @@
 - 🌟 English B1/B2
 
 ## 📝 Certificates
+- **IT Academy** Certificate confirming skills in manual testing, basics of automation, version control, and API testing. March 3, 2021
+
+![pw2-20240424-DominikC](https://github.com/DominikCLK/test-cases-for-Demo-Bank-App/assets/75272795/8f6ba3f9-261b-4cab-95e6-58e474012b6f)
+
+- **[jaktestowac.pl](https://jaktestowac.pl/)** Certificate confirming skills in building a professional testing framework using Playwright Test, GUI and API tests. April 24, 2024
 ![pw2-20240424-DominikC](https://github.com/DominikCLK/Automation-tests-project-Playwright/assets/75272795/6719c3a5-9b30-4e3e-bad7-0d7803e96704)
 
 ## 🔧 Technologies
