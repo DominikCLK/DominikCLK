@@ -30,16 +30,16 @@
 
 ## 🦾 My Skills
 
-- 🤖 Automation Testing
-- 🛠️ Test Frameworks (Playwright + TypeScript)
-- 📊 Continuous Integration/Deployment (GitHub Actions, Azure Pipelines)
-- 🐛 Bug Hunting and Tracking
-- 🌐 Ability to test and validate APIs using tools like Postman
-- 💻 Understanding of test design techniques to create effective and comprehensive test cases
-- 📊 Performance tests using JMeter
-- 🤖 Mobile app testing
-- 🧪 I contribute to the agile environment by collaborating with cross-functional teams (scrum)
-- 🌟 English B1/B2
+-  Automation Testing
+-  Test Frameworks (Playwright + TypeScript)
+-  Continuous Integration/Deployment (GitHub Actions, Azure Pipelines)
+-  Bug Hunting and Tracking
+-  Ability to test and validate APIs using tools like Postman
+-  Understanding of test design techniques to create effective and comprehensive test cases
+-  Performance tests using JMeter
+-  Mobile app testing
+-  I contribute to the agile environment by collaborating with cross-functional teams (scrum)
+-  English B2
 
 ## 📝 Certificates
 - **IT Academy** Certificate confirming skills in manual testing, basics of automation, version control, and API testing. March 3, 2021
