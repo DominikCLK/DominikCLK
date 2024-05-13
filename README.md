@@ -19,7 +19,7 @@
 - 🧪 Experiment with Playwright testing frameworks and tools.
 - 🌟 Creating automated testing solutions that sparkle.
 - 🚀 Turning caffeine into code that works while you sleep.
-- 🛠️ I have been working commercially since 2021
+- 🛠️ I have been working commercially since 2020
   
 
 ## 📊 GitHub Stats
