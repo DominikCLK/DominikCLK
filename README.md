@@ -51,21 +51,27 @@
 
 ## 🔧 Technologies
 
-<p align="center">
-  <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,node.js,eslint,playwright,typescript,postman,html5,css3,githubactions,git,github,azuredevops,azurepipelines,apachejmeter,figma" />
-  </a>
+- [Playwright Test](https://playwright.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Postman](https://www.postman.com/product/what-is-postman/)
+- [Swagger](https://swagger.io/tools/swaggerhub/features/)
+- [Git](https://git-scm.com/)
+- [GitHub](https://docs.github.com/en)
+- [GitHub Actions](https://docs.github.com/en/actions)
+- [Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops)
+- [BrowserStack](https://www.browserstack.com/?utm_source=google&utm_medium=cpc&utm_platform=paidads&utm_content=668760067900&utm_campaign=Search-Brand-EMEA-Navigational&utm_campaigncode=Core+9061071&utm_term=e+browserstack)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [ApacheJmeter](https://jmeter.apache.org/)
 
-</p>
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=swagger,windows11,macos,googlechrome,prettier" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,node.js,eslint,prettier,playwright,typescript,postman,githubactions,git,github,azuredevops,azurepipelines,apachejmeter" />
   </a>
-</p>
 
 ## 📂 Current projects
 
-I am developing an automated testing project in which I use the Playwright + TypeScript framework. Ultimately, the projects will include test plans, test scenarios and a CD\CI pipeline
+I am developing an automated testing project in which I use the Playwright + TypeScript framework. Ultimately, the projects will include test plans, test scenarios, and a CD\CI pipeline
 Check out the repo! 
 - [**GAD App Tests**](https://github.com/DominikCLK/Automation-tests-project-Playwright)
 - [**Demo Bank App Tests**](https://github.com/DominikCLK/Demo-Bank-Project)
