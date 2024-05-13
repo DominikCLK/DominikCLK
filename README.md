@@ -55,10 +55,11 @@
   <a href="#">
     <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,node.js,eslint,playwright,typescript,postman,html5,css3,githubactions,git,github,azuredevops,azurepipelines,apachejmeter,figma" />
   </a>
+
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=windows11,macos,googlechrome,prettier" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=swagger,windows11,macos,googlechrome,prettier" />
   </a>
 </p>
 
